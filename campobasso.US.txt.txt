@@ -1,3 +1,0 @@
-1)	As a user, I want to add products to the list of available products, so that I can see the recipes I can make with the products I have.
-2)	As a user premium, I want to be notified of the expiry of the products two days before, so that I can avoid throwing them away.
-3)	As a user premium, I want to save my favorite recipes, so that I can reuse them.
